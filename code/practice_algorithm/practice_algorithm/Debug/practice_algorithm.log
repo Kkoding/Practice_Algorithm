@@ -1,1 +1,4 @@
-﻿  practice_algorithm.vcxproj -> C:\Users\KKOD\Desktop\Practice_Alg\Practice_Algorithm\code\practice_algorithm\Debug\practice_algorithm.exe
+﻿  06_LetsReview.cpp
+c:\users\kkod\desktop\practice_alg\practice_algorithm\code\practice_algorithm\practice_algorithm\06_letsreview.cpp(27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kkod\desktop\practice_alg\practice_algorithm\code\practice_algorithm\practice_algorithm\06_letsreview.cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  practice_algorithm.vcxproj -> C:\Users\KKOD\Desktop\Practice_Alg\Practice_Algorithm\code\practice_algorithm\Debug\practice_algorithm.exe

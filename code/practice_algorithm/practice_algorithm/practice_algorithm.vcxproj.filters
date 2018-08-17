@@ -36,5 +36,11 @@
     <ClCompile Include="06_LetsReview.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="07_Arrays.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="08_Dictionaries and Maps.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

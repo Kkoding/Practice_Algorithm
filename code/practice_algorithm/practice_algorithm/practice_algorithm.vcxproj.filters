@@ -51,5 +51,17 @@
     <ClCompile Include="11_2D Arrays.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="12_Inharitance.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13_Abstract Classes.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14_Scope.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15_Linked List.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

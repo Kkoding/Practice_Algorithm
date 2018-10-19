@@ -19,35 +19,14 @@
     <Filter Include="소스 파일\백준">
       <UniqueIdentifier>{3ebb0b6d-f8a1-4119-8bda-721f30057fb0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\CodeSite">
+      <UniqueIdentifier>{7a153973-c986-48f4-9aae-d65d58e789ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MordenCppChallenge">
+      <UniqueIdentifier>{5aff9ad1-828a-4430-8195-4ea3228f83ab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Left Rotation.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Data_Types.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Operators.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Intro to Conditional Statements.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ClassVsInstance.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Sparse Arrays.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Array Manipulation.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="N1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Forming a Magic Square.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="05_Loop.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
@@ -93,11 +72,50 @@
     <ClCompile Include="19_Interfacescpp.cpp">
       <Filter>소스 파일\practice</Filter>
     </ClCompile>
-    <ClCompile Include="Kangaroo.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="11053.cpp">
       <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="Array Manipulation.cpp">
+      <Filter>소스 파일\CodeSite</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassVsInstance.cpp">
+      <Filter>소스 파일\CodeSite</Filter>
+    </ClCompile>
+    <ClCompile Include="Data_Types.cpp">
+      <Filter>소스 파일\CodeSite</Filter>
+    </ClCompile>
+    <ClCompile Include="Forming a Magic Square.cpp">
+      <Filter>소스 파일\CodeSite</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro to Conditional Statements.cpp">
+      <Filter>소스 파일\CodeSite</Filter>
+    </ClCompile>
+    <ClCompile Include="Kangaroo.cpp">
+      <Filter>소스 파일\CodeSite</Filter>
+    </ClCompile>
+    <ClCompile Include="Left Rotation.cpp">
+      <Filter>소스 파일\CodeSite</Filter>
+    </ClCompile>
+    <ClCompile Include="N1.cpp">
+      <Filter>소스 파일\CodeSite</Filter>
+    </ClCompile>
+    <ClCompile Include="Operators.cpp">
+      <Filter>소스 파일\CodeSite</Filter>
+    </ClCompile>
+    <ClCompile Include="Sparse Arrays.cpp">
+      <Filter>소스 파일\CodeSite</Filter>
+    </ClCompile>
+    <ClCompile Include="01Sum of naturals divisible by 3 and 5.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="02 Greatest common divisor.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="03Least common multiple.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="04Largest prime smaller than given number.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

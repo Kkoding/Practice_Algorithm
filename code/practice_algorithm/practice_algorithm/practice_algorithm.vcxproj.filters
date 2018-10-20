@@ -117,5 +117,23 @@
     <ClCompile Include="04Largest prime smaller than given number.cpp">
       <Filter>소스 파일\MordenCppChallenge</Filter>
     </ClCompile>
+    <ClCompile Include="05Sexy prime pairs.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="06Abundant numbers.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="07Amicable numbers.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="08Armstrong numbers.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="09Write a program that prints the prime factors of a number entered by the user.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="10Gray code.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

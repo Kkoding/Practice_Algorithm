@@ -135,5 +135,14 @@
     <ClCompile Include="10Gray code.cpp">
       <Filter>소스 파일\MordenCppChallenge</Filter>
     </ClCompile>
+    <ClCompile Include="11Converting numerical values to Roman.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="12Largest Collatz sequence.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="13 Computing the value of Pi.cpp">
+      <Filter>소스 파일\MordenCppChallenge</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
